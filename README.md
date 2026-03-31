@@ -1,8 +1,7 @@
 # PharmaSUG 2026
 
-# Paper AP-228
-
-# Timing, Masking, and Resolution: Understanding and Debugging SAS Macros
+Paper AP-228
+Timing, Masking, and Resolution: Understanding and Debugging SAS Macros
 Carleigh Jo Crabtree, SAS Institute 
 
 # ABSTRACT 
